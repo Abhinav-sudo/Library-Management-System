@@ -1,7 +1,11 @@
 # 📚 Library Management System -Java
 The project runs on NetBeans IDE. 
-JDK version used - jdk1.8.0_333
-Apache Derby which is an open source relational Database is used in order to connect database.(10.13.1.1)
+
+JDK version used - jdk1.8.0_333.
+
+Apache Derby which is an open source relational Database is used in order to connect database.(10.13.1.1).
+
+
 > Actors:
 The actors include the following: 
 * Librarian
